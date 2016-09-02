@@ -1,0 +1,40 @@
+@import "partials/reset";
+
+.wrap {
+  margin: 0 auto;
+  width: 600px;
+
+  .header {
+    border: solid 6px #444444;
+    padding: 20px;
+  }
+
+  .content {
+    color: blue;
+    border: solid 3px red;
+    padding: 20px;
+
+    a {
+      text-align: center;
+      width: 80px;
+      height: 30px;
+      line-height: 30px;
+      text-decoration: none;
+      display: block;
+      color: white;
+      background: blue;
+    }
+    a:hover {
+      color: blue;
+      background: white;
+    }
+
+  }
+
+  .footer {
+    padding: 30px;
+    background: pink;
+    text-align: center;
+  }
+
+}

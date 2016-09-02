@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="/css/diy/cssreset.css">
-    <link rel="stylesheet" href="/css/diy/style1.css">
+    <link rel="stylesheet" href="/cssdiy/cssreset.css">
+    <link rel="stylesheet" href="/cssdiy/style1.css">
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -22,6 +22,11 @@
             repudiandae saepe temporibus veniam? Earum fuga harum ipsam laboriosam magni nam perspiciatis quibusdam
             tempora vel veritatis? Commodi, vitae!</p>
         <a href="#">dosesdf</a>
+        <lu>
+            <li>dfas</li>
+            <li>dfsa</li>
+            <li>sdfsa</li>
+        </lu>
     </div>
     <div class="footer">
         <span>ADD:SLDFJSLJFSLJSLDKJFL</span>
